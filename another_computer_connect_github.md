@@ -39,5 +39,6 @@ Hi xxx! You've successfully authenticated, but GitHub does not provide shell acc
 git clone xxx.git
 git add XXX.txt
 git commit -m "***"
+git log
 git push 
 ```
